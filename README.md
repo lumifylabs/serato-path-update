@@ -1,11 +1,11 @@
 # serato-path-update
 Update the file path of tracks in your Serato crates
 
-### What is this for?
+### What is this?
 
 Have you ever moved tracks around to better organize? Perhaps you've moved your song library to Dropbox? This package will help you update all your tracks in seconds. You can use this 
 
-### What this isn't
+### What this isn't...
 
 This is not going to replace the Serato 'Find Lost Tracks' functionality. This is not meant to find one-off lost tracks. This is meant for batch updates -- when you've moved your entire library to cloud storage for example.
 
