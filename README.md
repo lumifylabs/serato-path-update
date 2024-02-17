@@ -3,7 +3,7 @@ Update the file path of tracks in your Serato crates
 
 ### What is this?
 
-Have you ever moved tracks around to better organize? Perhaps you've moved your song library to Dropbox? This package will help you update all your tracks in seconds. You can use this 
+Have you ever moved tracks around to better organize? Perhaps you've moved your song library to Dropbox? This package will help you update all your tracks in seconds. 
 
 ### What this isn't...
 
