@@ -27,7 +27,7 @@ node serato-path-update.js /path/to/pre-pend/to/your/track/locations/
 
 ### Thanks
 
-This package wouldn't be possible without the [seratojs]([url](https://github.com/bcollazo/seratojs)) library written by bcollazo.
+This package wouldn't be possible without the [seratojs](https://github.com/bcollazo/seratojs) library written by bcollazo.
 
 ### Warranty Disclaimer
 
