@@ -1,4 +1,4 @@
-const debug  = process.argv.indexOf('-v') > -1
+const debug = process.argv.indexOf('-v') > -1
 
 import fs from 'fs';
 import seratojs from 'seratojs';
