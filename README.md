@@ -11,7 +11,7 @@ This is not going to replace the Serato 'Find Lost Tracks' functionality. This i
 
 ### Installation
 
-You need to have Node and NPM installed on your computer:
+You need to have [Node and NPM](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs) installed on your computer:
 
 ```bash
 npm i -g serato-path-update
