@@ -1,0 +1,9 @@
+{
+  "name": "serato-path-update",
+  "version": "0.0.1",
+  "author": "Lumify Labs <hellp@lumifylabs.com>",
+  "type": "module",
+  "dependencies": {
+    "seratojs": "^3.2.0"
+  }
+}
